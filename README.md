@@ -1,59 +1,83 @@
-# 🚀 DevOps Batch 2601
+<h1 align="center">🚀 DevOps Batch 2601</h1>
 
-Welcome to **DevOps Batch 2601** — a comprehensive, hands-on journey through modern DevOps tools, practices, and culture.  
-This program is designed to help you master CI/CD, containerization, cloud automation, monitoring, and real-time project implementation.
+<p align="center">
+  🌟 <b>Hands-on | Project-Driven | Industry-Ready</b> 🌟
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Course-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Batch-2601-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Learning-Continuous-orange?style=for-the-badge">
+</p>
 
 ---
 
-## 📚 Course Modules
+## 📚 Course Overview
 
-| 🔢 Module Number | 📘 Module Name                                      | ⏳ Duration |
-|------------------|------------------------------------------------------|-------------|
-| Module 1         | DevOps Overview                                      | 1 day       |
-| Module 2         | Linux Fundamentals                                   | 4 days      |
-| Module 3         | Git and GitHub                                       | 4 days      |
-| Module 4         | Maven                                                 | 1 day       |
-| Module 5         | Jenkins, Tomcat, Nexus, SonarQube                    | 5 days      |
-| Module 6         | Docker                                                | 5 days      |
-| Module 7         | Kubernetes, ArgoCD, Monitoring                       | 8 days      |
-| Module 8         | Ansible                                               | 4 days      |
-| Module 9         | Terraform                                             | 4 days      |
-| Module 10        | Capstone Projects*                                   | 1 day       |
+This program takes you through the complete **DevOps lifecycle**, combining concepts with **real-world tools, automation, and projects**.  
+By the end, you will be confident working with CI/CD, containers, orchestration, IaC, monitoring, and more.
+
+---
+
+## 🧭 Course Roadmap
+
+| 🔢 Module No. | 📘 Module Name                                     | ⏳ Duration |
+|---------------|----------------------------------------------------|------------|
+| **Module 1**  | DevOps Overview                                   | 1 day      |
+| **Module 2**  | Linux Fundamentals                                | 4 days     |
+| **Module 3**  | Git and GitHub                                    | 4 days     |
+| **Module 4**  | Maven                                             | 1 day      |
+| **Module 5**  | Jenkins, Tomcat, Nexus, SonarQube                 | 5 days     |
+| **Module 6**  | Docker                                            | 5 days     |
+| **Module 7**  | Kubernetes, ArgoCD, Monitoring                    | 8 days     |
+| **Module 8**  | Ansible                                           | 4 days     |
+| **Module 9**  | Terraform                                         | 4 days     |
+| **Module 10** | Capstone Projects*                                | 1 day      |
 
 ---
 
 ### 📝 Notes
 
-- ⭐ **Module 10 is DIY (Do-It-Yourself)**
-- 🐚 **Shell Scripting is Self-Study**
+✔️ **Module 10 is DIY (Do-It-Yourself)**  
+✔️ **Shell Scripting is Self-Study**
 
 ---
 
-## 🛠️ Tools & Technologies Covered
+## 🛠️ Tools & Technologies You Will Master
 
-- 🧰 DevOps Culture & Practices  
-- 🐧 Linux & Shell Basics  
-- 🧭 Git, GitHub (Version Control & Collaboration)  
-- 🏗️ Maven (Build Tool)  
-- 🛠️ Jenkins (CI/CD Pipelines)  
-- 🐳 Docker (Containerization)  
-- ☸️ Kubernetes (Container Orchestration)  
-- 🎯 ArgoCD (GitOps)  
-- 📦 Nexus Repository  
-- 🧪 SonarQube (Code Quality)  
-- 🤖 Ansible (Configuration Management)  
-- 🌍 Terraform (Infrastructure as Code)  
+- 🧰 DevOps Culture & Principles  
+- 🐧 Linux Administration  
+- 🧭 Git & GitHub (Version Control & Collaboration)  
+- 🏗️ Maven – Build & Dependency Management  
+- ⚙️ Jenkins – CI/CD Pipelines  
+- 🐳 Docker – Containerization  
+- ☸️ Kubernetes – Orchestration  
+- 🎯 ArgoCD – GitOps Workflow  
+- 📦 Nexus – Artifact Repository  
+- 🧪 SonarQube – Code Quality & Coverage  
+- 🤖 Ansible – Configuration Management  
+- 🌍 Terraform – Infrastructure as Code  
 - 📊 Monitoring & Observability Tools  
+
+---
+
+## 🏁 Capstone Projects (Hands-On)
+
+✔️ Real-time industry use-cases  
+✔️ End-to-end CI/CD implementation  
+✔️ Cloud, containers, monitoring stack  
+✔️ Resume & interview-ready portfolio projects  
 
 ---
 
 ## 🤝 Connect With Me
 
-📌 **LinkedIn**  
-🔗 https://www.linkedin.com/in/kastro-kiran/
+<p>
+🔗 <b>LinkedIn:</b> https://www.linkedin.com/in/kastro-kiran/
+</p>
 
-💬 Feel free to reach out for guidance, collaboration, or opportunities.
+💬 Feel free to connect for **guidance, collaboration, mentorship, or opportunities**.
 
 ---
 
-### ✨ Keep Learning. Keep Building. Keep Automating.
+<h3 align="center">✨ Keep Learning • Keep Building • Keep Automating ✨</h3>
