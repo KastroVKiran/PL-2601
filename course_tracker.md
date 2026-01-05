@@ -3,8 +3,8 @@
 | Date      | Module Name            | Topics Discussed |
 |-----------|------------------------|------------------|
 | 30-12-25  | DevOps Overview        | Course Overview, Introduction to Projects, SDLC - Phases, Methodologies, Waterfile and Agile Models, Overview of CI & CD |
-| 31-12-25  | Linux – Part 1         | OS, Types of OS, Windows Vs Linux, Linux Architecture, Launching a VM, Linux Commands_Part 1 (date, cal, pwd, whoami, root user... |
-| 05-01-26  | Linux – Part 1 (Repeat)| OS, Types of OS, Windows Vs Linux, Linux Architecture, Launching a VM, Linux Commands_Part 1 (date, cal, pwd, whoami, root user... |
+| 31-12-25  | Linux – Part 1         | OS, Types of OS, Windows Vs Linux, Linux Architecture, Launching a VM, Linux Commands_Part 1 (date, cal, pwd, whoami, root user...) |
+| 05-01-26  | Linux – Part 1 (Repeat)| OS, Types of OS, Windows Vs Linux, Linux Architecture, Launching a VM, Linux Commands_Part 1 (date, cal, pwd, whoami, root user...) |
 | 06-01-26  | Linux – Part 2         |                  |
 | 08-01-26  | Linux – Part 3         |                  |
 | 09-01-26  | Linux – Part 4         |                  |
