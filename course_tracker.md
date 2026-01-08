@@ -19,7 +19,7 @@ A comprehensive 35-day DevOps training program covering essential tools and prac
 
 ## 📅 Learning Progress
 
-### **Phase 1: Foundations** 
+### **Phase 1: DevOps Overview, Linux Fundamentals & Shell Scripting** 
 | Date | Module | Topics Covered | Status |
 |------|--------|----------------|--------|
 | **30 Dec 2025** | DevOps Fundamentals | SDLC phases, Waterfall vs Agile, CI/CD concepts, DevOps lifecycle | ✅ Completed |
